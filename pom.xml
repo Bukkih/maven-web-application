@@ -95,14 +95,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.53.227.31:8191/landmark/repository/tesla-fe-releases/</url>
+	      <name>Fintech Release Nexus Repository</name>
+	      <url>http://35.172.236.165:8081/repository/Fintech_release_repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.53.227.31:8191/landmark/repository/tesla-fe-snapshots/</url>
+	      <name>Fintech Nexus Respository</name>
+	      <url>http://35.172.236.165:8081/repository/Fintech_repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
