@@ -23,7 +23,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://44.199.202.192:9000/</sonar.host.url>
-		<sonar.login>37d025ba69f9977f3650845b9e594b919228d92b</sonar.login>
+		<sonar.login>124834d690b022d036314551b9752ab3e1c85a11</sonar.login>
 		<!-- <sonar.password>admin</sonar.password> -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Fintech Release Nexus Repository</name>
-	      <url>http://35.172.236.165:8081/repository/Fintech_release_repo/</url>
+	      <url>http://3.238.190.94:8081/repository/Fintech_release_repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Fintech Nexus Respository</name>
-	      <url>http://35.172.236.165:8081/repository/Fintech_repo/</url>
+	      <url>http://3.238.190.94:8081/repository/Fintech_repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
